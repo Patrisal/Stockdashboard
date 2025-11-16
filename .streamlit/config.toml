@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#4ade80"
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#1e2130"
+textColor="#fafafa"
+
+[server]
+maxUploadSize=200
+enableCORS=false
